@@ -9,7 +9,7 @@
     "require-dev": {
         "orchestra/testbench": "^6"
     },
-    "license": "propretary",
+    "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
             "Milebits\\EloquentDraftable\\": "src/"
