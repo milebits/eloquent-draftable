@@ -1,0 +1,25 @@
+{
+    "name": "milebits/eloquent-draftable",
+    "description": "Add draftable functionality to your eloquent models.",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^8",
+        "milebits/helpers": "^3.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^6"
+    },
+    "license": "propretary",
+    "autoload": {
+        "psr-4": {
+            "Milebits\\EloquentDraftable\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hicham SADDEK",
+            "email": "h.saddek@serrahub.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
