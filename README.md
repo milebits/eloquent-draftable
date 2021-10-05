@@ -1,6 +1,7 @@
 # Eloquent Draftable
 
-![Packagist Version](https://img.shields.io/packagist/v/milebits/draftable)
+![Packagist Downloads](https://img.shields.io/packagist/dt/milebits/eloquent-draftable)
+![Packagist Version](https://img.shields.io/packagist/v/milebits/eloquent-draftable)
 
 Add draftable functionality to your eloquent models.
 
